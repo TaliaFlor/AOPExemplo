@@ -1,7 +1,7 @@
 # AOP Exemplo
 
 <p>
-Um pequeno projeto que exemplifica a implementação do Paradigma Orientado a Aspectos.
+Um pequeno projeto que exemplifica a implementação do Paradigma Orientado a Aspectos em Java utilizado Spring AOP.
 </p>
 
 # Resources
